@@ -1,0 +1,1 @@
+Created and configured DNS records for the domain, utilizing hostnames instead of IP addresses to improve manageability and scalability of infrastructure
